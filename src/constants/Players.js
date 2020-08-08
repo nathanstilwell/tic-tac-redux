@@ -1,6 +1,8 @@
 const Players = {
   x: "X",
-  o: "O"
+  o: "O",
+  v: "V",
+  l: "L",
 };
 
 export default Players;
